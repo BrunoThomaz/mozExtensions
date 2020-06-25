@@ -5,7 +5,7 @@
     "version": "1.0",
   
     "description": "Exporta o resultado de uma pesquisa no site https://pje.jfce.jus.br/pje/ConsultaPublica/listView.seam para um arquivo .CSV que pode ser trabalhado no Excel ou outro programa de planilha",
-    "homepage_url": "https://github.com/BrunoThomaz/mozExtensions/exportCSV",
+    "homepage_url": "https://github.com/BrunoThomaz/mozExtensions/",
     "icons": {
       "48": "src/icons/icon-48.png",
       "96": "src/icons/icon-96.png"
